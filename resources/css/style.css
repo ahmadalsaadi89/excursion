@@ -12,9 +12,10 @@ body {
 }
 
 .Title_1 p {
- font-family: Aquamarine;
+ font-family: "Aquamarine";
  font-size: 16px;
  color: white;
+ text-decoration: underline;
 }
 
 .Title_2. h1 {
@@ -38,9 +39,10 @@ body {
 }
 
 .Title_3 p {
- font-family: Aquamarine;
+ font-family: "Aquamarine";
  font-size: 16px;
  color: white;
+ font-decoration: underline; 
 }
 
 
