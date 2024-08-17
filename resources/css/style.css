@@ -12,6 +12,7 @@ body {
 }
 
 .Title_1 p {
+ font-family: Verdana;
  font-size: 16px;
  color: aquamarine;
  text-decoration: underline;
@@ -38,6 +39,7 @@ body {
 }
 
 .Title_3 p {
+ font-family: Verdana;
  font-size: 16px;
  color: aquamarine;
  text-decoration: underline; 
