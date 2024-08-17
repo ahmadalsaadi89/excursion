@@ -1,3 +1,8 @@
+* {
+ background-color: black
+ text-align: center;
+}
+
 .Title_1 h1 {
  font-family: "Verdana";
  font-weight: normal;
@@ -5,3 +10,29 @@
  color: white;
  text-align: center;
 }
+
+.Title_1.Title_3 p {
+ font-family: Aquamarine;
+ font-size: 16px;
+}
+
+.Title_2.Title_3 h1 {
+ font-family: "Verdana";
+ font-weight: 300;
+ font-size: 42px;
+}
+
+.Title_2 p {
+ font-family: "Verdana";
+ font-size: 21px;
+ color: gray;
+}
+
+footer {
+ color: gray;
+ text-align: right;
+}
+
+
+
+
